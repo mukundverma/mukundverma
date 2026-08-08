@@ -1,4 +1,4 @@
-## Hi Friend 👋
+## Hi Friend/Visitor 👋
 
 <!--
 **mukundverma/mukundverma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 Welcome to my profile. 
 I am passionate about learning new skills and new technologies. 
+
 **Believe in learning by doing.**
+
 
 Currently working on:
 
