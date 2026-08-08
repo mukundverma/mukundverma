@@ -38,13 +38,7 @@ Cheers!
 **Keep Working, Keep Growing, Stay Curious!**
 
 ## 💻 Tech Stack
-https://img.shields.io/badge/SQL%20-%20Blue
-
-https://img.shields.io/badge/Python%20-%20Green
-
-https://img.shields.io/badge/PowerBI%20-%20Blue
-
-https://img.shields.io/badge/AzureDevOps%20-%20Green
-
-https://img.shields.io/badge/JIRA%20-%20Blue
+![Static Badge](https://img.shields.io/badge/SQL%20-%20Blue) ![Static Badge](https://img.shields.io/badge/Python%20-%20Green)
+![Static Badge](https://img.shields.io/badge/PowerBI%20-%20Blue) ![Static Badge](https://img.shields.io/badge/AzureDevOps%20-%20Green)
+![Static Badge](https://img.shields.io/badge/JIRA%20-%20Blue)
 
