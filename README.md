@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Friend 👋
 
 <!--
 **mukundverma/mukundverma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Welcome to my profile. 
-I am passionate about learning new skills and new technologies. Believe in learning by doing. Currently working on:
+I am passionate about learning new skills and new technologies. 
+Believe in learning by doing. 
+
+Currently working on:
 
 🔭 Developing a new Power BI Dashboard.
+
 🌱 Digging deep into DAX Time Intelligence function.
+
 ⚡ Exploratory Data Analysis Project Using Python.
+
 
 Just give me a hifi if you happen to read this. Cheers!
 **
