@@ -36,3 +36,11 @@ Cheers!
 
 
 **Keep Working, Keep Growing, Stay Curious!**
+
+## 💻 Tech Stack
+
+![SQL](https://shields.io)
+![Python](https://shields.io)
+![PowerBI](https://shields.io)
+![Azure DevOps](https://shields.io)
+![JIRA](https://shields.io)
