@@ -16,17 +16,21 @@ Here are some ideas to get you started:
 -->
 Welcome to my profile. 
 I am passionate about learning new skills and new technologies. 
-Believe in learning by doing. 
+**Believe in learning by doing.**
 
 Currently working on:
+
+⚡ Exploratory Data Analysis Project Using Python.
 
 🔭 Developing a new Power BI Dashboard.
 
 🌱 Digging deep into DAX Time Intelligence function.
 
-⚡ Exploratory Data Analysis Project Using Python.
 
 
-Just give me a hifi if you happen to read this. Cheers!
-**
-Keep Working, Keep Growing, Stay Curious!**
+Just give me a hifi if you happen to read this. 
+
+Cheers!
+
+
+**Keep Working, Keep Growing, Stay Curious!**
